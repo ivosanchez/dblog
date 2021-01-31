@@ -1,14 +1,14 @@
 {
-  "title": "FrontAid CMS with Nuxt Content",
+  "title": "Objetivo Danza Nxt-Cnt-Fa",
   "index": {
     "title": "Indice",
     "content": "<p>air has the vue code for this content...</p><p>hay ventolera en la playa</p><p>air has the vue code for this content...</p><p>hay ventolera en la playa</p>"
   },
   "pages": [
     {
-      "title": "Foo",
+      "title": "First",
       "path": "/foo",
-      "content": "<p>Foo content...</p><h2>Heading</h2><p>Some other content...</p>"
+      "content": "<p>Foo content edited in fa</p><h2>Foo in FA</h2><p>this is the foo content that I have edited in FA</p>"
     },
     {
       "title": "Bar",
