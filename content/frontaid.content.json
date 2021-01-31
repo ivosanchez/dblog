@@ -1,0 +1,24 @@
+{
+  "title": "FrontAid CMS with Nuxt Content",
+  "index": {
+    "title": "Indice",
+    "content": "<p>air has the vue code for this content...</p><p>hay ventolera en la playa</p><p>air has the vue code for this content...</p><p>hay ventolera en la playa</p>"
+  },
+  "pages": [
+    {
+      "title": "Foo",
+      "path": "/foo",
+      "content": "<p>Foo content...</p><h2>Heading</h2><p>Some other content...</p>"
+    },
+    {
+      "title": "Bar",
+      "path": "/bar",
+      "content": "<p>Bar content ...</p>"
+    },
+    {
+      "title": "Baz",
+      "path": "/baz",
+      "content": "<p>Baz content...</p>"
+    }
+  ]
+}

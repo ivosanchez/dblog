@@ -1,0 +1,11 @@
+{
+   "workbench.colorCustomizations": {
+      "tab.activeBorder": "#dbcf24",
+      "titleBar.activeBackground": "#dbcf24",
+      "titleBar.activeForeground": "#000000",
+      "activityBar.background": "#dbcf24",
+      "activityBar.foreground": "#000000",
+      "statusBar.background": "#dbcf24",
+      "statusBar.foreground": "#000000"
+   }
+}
