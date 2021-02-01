@@ -1,15 +1,8 @@
 <template>
-  <div>
+  <main class="home__content">
     <Navigation/>
     <Nuxt/>
-  </div>
+  </main>
 </template>
 
-<script>
 
-export default {
-  components: {
-
-  },
-};
-</script>

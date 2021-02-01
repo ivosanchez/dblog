@@ -1,6 +1,6 @@
 <template>
-  <header class="flex">
-    <NuxtLink to="/"><Logo class="mb-4" /></NuxtLink>
-    <AppSearchInput class="ml-8" />
+  <header class="header header--blog">
+    <NuxtLink to="/"><Logo class="header__link--cta" /></NuxtLink>
+    <AppSearchInput class="button__fold--c" />
   </header>
 </template>

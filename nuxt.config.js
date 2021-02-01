@@ -25,9 +25,18 @@ export default {
   },
   //
   css: [
-    // './assets/css/main.css',
-    './assets/css/tailwind.css',
-    './assets/css/spk.css'
+    // './assets/css/reset.css',
+    // ----------------------
+    './assets/css/main.css',
+    // ----------------------
+    './assets/css/rte.css',
+    './assets/css/blog.css',
+    './assets/css/ecosystem.css',
+    './assets/css/menus.css',
+    './assets/css/preview.css',
+   './assets/css/author.css',
+    './assets/css/button.css',
+    './assets/css/animations.css'
   ],
   plugins: [],
   components: true,
@@ -45,8 +54,8 @@ export default {
     // nestedProperties: ['author.name'],
   },
   cloudinary: {
-    // cloudName: process.env.CLOUDNAME,
-    cloudName: 'eyelites-es',
+    cloudName: process.env.CLOUDNAME,
+    // cloudName: 'eyelites-es',
     apiKey: process.env.API_KEY,
     apiSecret: process.env.API_SECRET,
     secure: true,
@@ -59,7 +68,7 @@ export default {
       pages.forEach((page) => {
         routes.push({
           path: page.path,
-          component: resolve(__dirname, 'components/MetaPage.vue'),
+          component: resolve(__dirname, 'components/global/MetaPage.vue'),
           meta: page
         })
       })

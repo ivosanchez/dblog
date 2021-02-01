@@ -1,25 +1,31 @@
 <template>
-	<nav>
-		<ul>
+	<nav class="header">
+		<ul >
 
-			<li>
+			<li class="header__link">
 				<nuxt-link to="/">{{ content.index.title }}</nuxt-link>
 			</li>
 
-			<li>
+				<li class="header__link">
 				<nuxt-link to="/nested">nested</nuxt-link>
 			</li>
 
-			<li v-for="page in content.pages" :key="page.title">
-				<nuxt-link :to="page.path">{{ page.title }}</nuxt-link>
-			</li>
+      <li
+        class="header__link"
+        v-for="page in content.pages"
+        :key="page.title">
+
+        <nuxt-link
+        :to="page.path">{{ page.title }}</nuxt-link>
+      </li>
+
 
 		</ul>
 	</nav>
 </template>
 
 <script>
-import conf from '../conf'
+import conf from '../../conf'
 
 export default {
 	data() {
@@ -34,7 +40,15 @@ export default {
 </script>
 
 <style scoped>
-    nav ul {
+
+.header{
+  z-index: 100;
+  font-family: 'Oxygen';
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+    /* nav ul {
       display: flex;
       justify-content: space-around;
       outline: 1px dashed rgb(76, 93, 99);
@@ -52,7 +66,7 @@ export default {
       font-size: 1.2rem;
       text-transform: uppercase;
       text-decoration: none;
-      /* padding: 0.5rem;
-        margin: 0.5rem; */
-    }
+       padding: 0.5rem;
+        margin: 0.5rem;
+    } */
 </style>

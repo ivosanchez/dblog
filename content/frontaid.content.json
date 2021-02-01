@@ -2,33 +2,29 @@
   "title": "Objetivo Danza --Nxt-Cnt-Fa--",
   "index": {
     "title": "Inicio",
-    "content": "<h1>Has the vue code for this content..</h1><h2>Air has the vue code for this content..</h2><p>Michael Osterholm, Director, Center for Infectious Disease Research and Policy at the University of Minnesota, talks about vaccine distribution. Brian Deese, Director of the National Economic Council, discusses the Biden administration’s push for a $1.9 trillion Covid relief bill. Rep. Adam Kinzinger (R-Ill.) talks about why he voted to impeach former President Trump. Amy Walter, Al Cardenas, Eddie Glaude, Jr. and Ashley Parker join the Meet the Press roundtable. Michael Osterholm, Director, Center for Infectious Disease Research and Policy at the University of Minnesota, talks about vaccine distribution. Brian Deese, Director of the National Economic Council, discusses the Biden administration’s push for a $1.9 trillion Covid relief <strong>bill. Rep. Adam Kinzinger (R-Ill.) talks about why he voted to impeach former President Trump. Amy Walter, Al Cardenas, Eddie Glaude, Jr. and Ashley Parker join the Meet the Press roundtable. </strong>of the National Economic Council, discusses the Biden administration’s push for a $1.9 trillion Covid relief bill. Rep. Adam Kinzinger (R-Ill.) talks about why he voted to impeach former President Trump. Amy Walter, Al Cardenas, Eddie Glaude, Jr. and Ashley Parker join the Meet the</p><h2>Air has the vue code for this content..</h2><p>$1.9 trillion Covid relief <strong>bill. Rep. Adam Kinzinger (R-Ill.) talks about why he voted to impeach former President Trump. Amy Walter, Al Cardenas, Eddie Glaude, Jr. and Ashley Parker join the Meet the Press roundtable. </strong>of the National Economic Council, discusses the Biden administration’s push for a $1.9 trillion Covid relief bill. Rep. Adam Kinzinger (R-Ill.) talks about why he voted to impeach former President Trump. Amy Walter, Al Cardenas, Eddie Glaude, Jr. and Ashley Parker join the Meet the</p><p></p>"
+    "content": "<p>Tom the vue code for this contentMichael Osterholm, Director, Center for Infectious Disease Research and Policy at the University of Minnesota, talks about vaccine distribution. Brian Deese, Director of the National Economic Council, discusses the Biden administration’s push for a $1.9 trillion Covid relief bill. Rep. Adam Kinzinger (R-Ill.) talks about why he voted to impeach former President Trump. Amy Walter, Al Cardenas, Eddie Glaude, Jr. and Ashley Parker join the Meet the Press roundtable. Michael Osterholm, Director, Center for Infectious Disease Research and Policy at the University of Minnesota, talks about vaccine distribution. Brian Deese, Director of the National Economic Council, discusses the Biden administration’s push for a $1.9 trillion Covid relief bill.</p><p>Rep. Adam Kinzinger (R-Ill.) talks about why he voted to impeach former President Trump. Amy Walter, Al Cardenas, Eddie Glaude the Meet the Press roundtable of the National Econoen administration’s push for a $1.9 trillion Covid relief bill. Rep. Adam Kinzinger (R-Ill.) talks about why he voted to impeach former President Trump. Amy Walter, Al Cardenas, Eddie Glaude, Jr. and Ashley Parker join the Meet the</p><p>Air has the vue code for this content $1.9 trillion Covid relief <strong>bill Rep. Adam Kinzinger (R-Ill.) talks about why he voted to impeach former President Trump. Amy Walter, Al Cardenas, Eddie Glaude, Jr. and Ashley Parker join the Meet the Press roundtable.</strong>of the National Economic Council, discusses the Biden administration’s push for a $1.9 trillion Covid relief bill. Rep. Adam Kinzinger (R-Ill.) talks about why he voted to impeach former President Trump. Amy Walter,Cardenas, Eddie Glaude, Jr. and Ashley Parker.</p>"
   },
   "pages": [
     {
       "title": "First",
       "path": "/first",
-      "content": "<h1>First page in fa fa</h1><h3>this is the foo content that I have edited in FA. this is the foo content that I have edited in FA.</h3><h2>Foo in FA</h2><h3>this is the foo content that I have edited in FA</h3>"
+      "content": "First page in fa fathis is the foo content that I have edited in FA. this is the foo content that I have edited in FA Foo in FA this is the foo content that I have edited in FA. First page in fa fathis is the foo content that I have edited in FA. this is the foo content that I have edited in FA Foo in FA this is the foo content that I have edited in FA."
     },
     {
-      "title": "2nd title",
-      "path": "/bar",
-      "content": "<p>Bar content ...</p>"
+      "title": "second",
+      "path": "/second",
+      "subtitle": "second title",
+      "content": "2nd page in fa fathis is the foo content that I have edited in FA. this is the foo content that I have edited in FA this is the foo content that I have edited in FAFirst page in fa fathis is the foo content that I have edited in FA. this is the foo content that I have edited in FAFoo in FAthis is the foo content that I have edited in FA</h3>"
     },
     {
       "title": "third",
-<<<<<<< HEAD
-      "path": "/baz",
-      "content": "<p>Baz content...</p>"
+      "path": "/third",
+      "content": "<p>Baz content first page in fa fa</h1><h3>this is the foo content that I have edited in FA. this is the foo content that I have edited in FA.</h3><h2>Foo in FA</h2><h3>this is the foo content that I have edited in FA</h3> <h1>First page in fa fa</h1><h3>this is the foo content that I have edited in FA. this is the foo content that I have edited in FA.</h3><h2>Foo in FA</h2><h3>this is the foo content that I have edited in FA</h3>"
     },
     {
       "title": "fourth",
       "path": "/fourth",
-      "content": "<p>fourth content</p>"
-=======
-      "path": "/third",
-      "content": "<p>FrontAid CMS allows you to create a strict <strong>Data Model written in JSON</strong> to describe the content that you need for your application. Given this Model, the CMS will generate different types of input fields, groups, list, etc. that the editor can then fill in.</p><p>To simplify writing such a model, we provide a <a href=\"https://json-schema.org/\" rel=\"noopener noreferrer nofollow\">JSON Schema</a> definition. Essentially, that defines the grammar that you can use to write a Data Model for FrontAid CMS using JSON. This page will explain how to use such a Schema and you can find more information about data modelling in the <a href=\"https://frontaid.io/docs/dev/model/\" rel=\"noopener noreferrer nofollow\">Model</a> section.</p>"
->>>>>>> d9e3a958eb2e5d46b1491cf57a0d8f5f4fee9e6a
+      "content": "<p>fourth content First page in fa fa</h1><h3>this is the foo content that I have edited in FA. this is the foo content that I have edited in FA.</h3><h2>Foo in FA</h2><h3>this is the foo content that I have edited in FA</h3><h1>First page in fa fa</h1><h3>this is the foo content that I have edited in FA. this is the foo content that I have edited in FA.</h3><h2>Foo in FA</h2><h3>this is the foo content that I have edited in FA</h3>"
     }
   ]
 }
