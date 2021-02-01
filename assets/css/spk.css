@@ -159,11 +159,12 @@ body p {
     line-height: 1.45;
 }
 body ::-moz-selection {
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(3, 89, 247, 0.1);
 }
 body ::selection {
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(59, 7, 246, 0.1);
 }
+
 body, .preview--featured .preview__content, .newsletter__input:-ms-input-placeholder {
   font-family: 'ProximaNova-Light', sans-serif;
 }

@@ -16,9 +16,14 @@
       "content": "<p>Bar content ...</p>"
     },
     {
-      "title": "Baz",
+      "title": "third",
       "path": "/baz",
       "content": "<p>Baz content...</p>"
+    },
+    {
+      "title": "fourth",
+      "path": "/fourth",
+      "content": "<p>fourth content</p>"
     }
   ]
 }

@@ -9,7 +9,7 @@
     },
     "content": {
       ":type": "text",
-       ":richtext": true
+       ":richtext": false
     }
   },
   "pages": {

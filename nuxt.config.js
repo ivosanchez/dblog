@@ -26,8 +26,8 @@ export default {
   //
   css: [
     // './assets/css/main.css',
-    './assets/css/tailwind.css'
-    // '@/assets/css/spk.css'
+    './assets/css/tailwind.css',
+    './assets/css/spk.css'
   ],
   plugins: [],
   components: true,
@@ -36,13 +36,21 @@ export default {
     // '@nuxtjs/stylelint-module',
     // '@nuxtjs/tailwindcss'
   ],
-  modules: ['@nuxt/content'],
+  modules: ['@nuxt/content', '@nuxtjs/cloudinary'],
   //
   content: {
     dir: './content',
     liveEdit: true
     // router: {}
     // nestedProperties: ['author.name'],
+  },
+  cloudinary: {
+    // cloudName: process.env.CLOUDNAME,
+    cloudName: 'eyelites-es',
+    apiKey: process.env.API_KEY,
+    apiSecret: process.env.API_SECRET,
+    secure: true,
+    privateCDN: false
   },
   router: {
     async extendRoutes(routes, resolve) {
@@ -57,7 +65,6 @@ export default {
       })
     }
   },
-
   // ...........................
   build: {}
 }
