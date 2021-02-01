@@ -16,9 +16,9 @@
       "content": "<p>Bar content ...</p>"
     },
     {
-      "title": "Baz",
-      "path": "/baz",
-      "content": "<p>Baz content...</p>"
+      "title": "third",
+      "path": "/third",
+      "content": "<p>FrontAid CMS allows you to create a strict <strong>Data Model written in JSON</strong> to describe the content that you need for your application. Given this Model, the CMS will generate different types of input fields, groups, list, etc. that the editor can then fill in.</p><p>To simplify writing such a model, we provide a <a href=\"https://json-schema.org/\" rel=\"noopener noreferrer nofollow\">JSON Schema</a> definition. Essentially, that defines the grammar that you can use to write a Data Model for FrontAid CMS using JSON. This page will explain how to use such a Schema and you can find more information about data modelling in the <a href=\"https://frontaid.io/docs/dev/model/\" rel=\"noopener noreferrer nofollow\">Model</a> section.</p>"
     }
   ]
 }
