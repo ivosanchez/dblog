@@ -37,13 +37,12 @@
       "breadcrumb.foreground": "#fff"
     },
     "[Fresh Material - Green]": {},
-    "tab.activeBorder": "#afefe1",
-    "titleBar.activeBackground": "#afefe1",
-    "titleBar.activeForeground": "#000000",
-    "activityBar.background": "#afefe1",
-    "activityBar.foreground": "#000000",
-    "statusBar.background": "#afefe1",
-    "statusBar.foreground": "#000000"
-  },
-  "window.title": "~[vue]~${separator}${separator}${activeEditorShort}${separator}${rootName}"
+    "tab.activeBorder": "#654321",
+    "titleBar.activeBackground": "#654321",
+    "titleBar.activeForeground": "#ffffff",
+    "activityBar.background": "#654321",
+    "activityBar.foreground": "#ffffff",
+    "statusBar.background": "#654321",
+    "statusBar.foreground": "#ffffff"
+  }
 }
